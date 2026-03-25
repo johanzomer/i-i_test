@@ -6,3 +6,6 @@ import play
 play.new_circle()
 
 play.start_program()
+
+a = 1
+b = 2
